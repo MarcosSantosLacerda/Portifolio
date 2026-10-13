@@ -89,8 +89,8 @@ export const experiences: Experience[] = [
     },
     company: 'Projetos Interdisciplinares PUC Minas',
     period: {
-      pt: '2024 - Atualmente',
-      en: '2024 - Present',
+      pt: '2026 - Atualmente',
+      en: '2026 - Present',
     },
     description: {
       pt: 'Desenvolvimento em equipes ágeis com Git e GitHub, criação de soluções voltadas para problemas sociais reais (como o Firefighter Radar) e implementação de jogos em Python com POO.',
